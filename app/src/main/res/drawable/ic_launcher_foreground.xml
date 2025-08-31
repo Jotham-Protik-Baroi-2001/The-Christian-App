@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Christian Cross Symbol for The Christian App -->
+    <!-- Outer shadow/glow effect -->
+    <path
+        android:fillColor="#20000000"
+        android:pathData="M56,20 L52,20 L52,46 L26,46 L26,50 L52,50 L52,76 L56,76 L56,50 L82,50 L82,46 L56,46 Z" />
+    
+    <!-- Main cross -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M55,18 L53,18 L53,45 L26,45 L26,47 L53,47 L53,74 L55,74 L55,47 L82,47 L82,45 L55,45 Z" />
+    
+    <!-- Inner highlight -->
+    <path
+        android:fillColor="#42A5F5"
+        android:pathData="M54.5,19 L53.5,19 L53.5,45.5 L27,45.5 L27,46.5 L53.5,46.5 L53.5,73 L54.5,73 L54.5,46.5 L81,46.5 L81,45.5 L54.5,45.5 Z" />
+    
+    <!-- Small decorative dots around the cross -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M40,30.5 A1.5,1.5 0 1,1 40,33.5 A1.5,1.5 0 1,1 40,30.5 Z" />
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M68,30.5 A1.5,1.5 0 1,1 68,33.5 A1.5,1.5 0 1,1 68,30.5 Z" />
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M40,58.5 A1.5,1.5 0 1,1 40,61.5 A1.5,1.5 0 1,1 40,58.5 Z" />
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M68,58.5 A1.5,1.5 0 1,1 68,61.5 A1.5,1.5 0 1,1 68,58.5 Z" />
+</vector>
